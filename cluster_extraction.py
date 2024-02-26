@@ -1,3 +1,18 @@
+'''
+
+cluster_extraction.py
+    - Extracts the xyz data around each cluster found by OVITO
+    
+The box size and some output paramaters can be changed to make it easier
+to view in OVITO
+
+Date : 2024-02-26
+
+
+'''
+
+
+
 import os
 import copy
 import numpy as np
